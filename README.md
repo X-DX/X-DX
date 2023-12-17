@@ -1,6 +1,10 @@
+![logo](https://github.com/X-DX/X-DX/blob/main/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner.png)
 # 💫 About Me:
+<h1 align="center">Hi 👋, I'm Arup Roy</h1>
+<h3 align="center">A passionate full stack web app developer from India</h3>
 I’m currently working on the Ease of Doing Business Assam Portal.<br>I’m currently learning  PHP, JavaScript,  React js, Node js.<br>
 
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Arup Roy) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arupdx) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ @Aruproy5637Roy) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UC8EZ7Pg0Lja6ukT1P-K5iuA) 
