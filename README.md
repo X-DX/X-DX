@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arup Roy</h1>
 <h3 align="center">A passionate full stack web app developer from India</h3>
-I’m currently working on the Ease of Doing Business Assam Portal.<br>I’m currently learning  PHP, JavaScript,  React js, Node js.<br>
+<!-- I’m currently working on the Ease of Doing Business Assam Portal.<br>I’m currently learning  PHP, JavaScript,  React js, Node js.<br> -->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=X-DX&icon=8&color=2)](https://visitcount.itsvg.in)
