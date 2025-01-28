@@ -8,18 +8,17 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
 
-### 📈 &nbsp;Contribution Statistics
-
-<br/>
-<p align="left">
-  <a href="https://lia0wang.dev/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=lia0wang&show_icons=true&theme=blueberry&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=lia0wang&theme=blueberry&hide_border=true" />
-  </a>
+<p align="center">
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i>
+</p>
+ 
+<p>
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thenuka99&langs_count=10&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="thenuka" />
+</p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=thenuka99&show_icons=true&locale=en&theme=chartreuse-dark" alt="thenuka" width="410"/>
 </p>
 <br>
 
-[![Wang Liao' Activity Graph](https://activity-graph.herokuapp.com/graph?username=lia0wang&custom_title=Wang%20Liao's%20Contribution%20Graph&theme=react-dark&bg_color=1a2d3d&hide_border=true&line=6dbef7&point=add7ff&color=27e8a7)](https://lia0wang.dev)
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
@@ -67,6 +66,5 @@
 <p align="center"><img src="https://profile-counter.glitch.me/%7Blia0wang%7D/count.svg" alt="visitor badge" width="30%"></p>
 
 ------
-Credit: [lia0wang](https://github.com/lia0wang)
 
-Last Edited on: 26/03/2000
+Last Edited on: 28/01/2025
